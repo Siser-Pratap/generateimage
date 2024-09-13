@@ -6,7 +6,7 @@ import OpenAI from 'openai';
 import axios from 'axios';
 import React, {useState} from "react";
 
-const API_KEY = "sk-3tkPKaszRPu9zDu0kAXT3BLbkwQVivfgQWk5KlPEuwG";
+
 const submitIcon = document.querySelector("#submit-icon");
 const inputElement = document.querySelector("input");
 
